@@ -6,7 +6,7 @@
     "keywords": ["image", "resize", "rotate"],
     "require": {
         "php": ">=5.3.0",
-        "symfony/filesystem": "2.5.*"
+        "symfony/filesystem": "~2.4"
     },
     "homepage": "https://github.com/masterexploder/PHPThumb",
     "authors": [
